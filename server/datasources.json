@@ -1,0 +1,10 @@
+{
+  "s3-storage": {
+    "name": "s3-storage",
+    "connector": "loopback-component-storage",
+    "provider": "amazon",
+    "key": "HztrGcQoMxvZ/LxXXOI38bfzPgovkKmAqDOlhAra",
+    "keyId": "AKIAI7ZUOBSG2WC5LCMA",
+    "bucket": "qraved-id"
+  }
+}
